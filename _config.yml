@@ -6,11 +6,10 @@ baseurl: "" # Leave this blank if it's a user/org site
 author: Meline
 email: nasambucamelinen@gmail.com
 
-theme: minima
-
 github_username: meline-bit
 linkedin_username:www.linkedin.com/in/camelinenyongesa
 
 markdown: kramdown
 plugins:
   - jekyll-feed
+remote_theme: jekyll/minima
